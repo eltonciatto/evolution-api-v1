@@ -1,4 +1,4 @@
-<h1 align="center">Evolution Api</h1>
+<h1 align="center">Evolution Api v1</h1>
 
 <div align="center">
 
